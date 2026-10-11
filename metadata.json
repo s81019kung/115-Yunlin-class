@@ -1,0 +1,6 @@
+{
+  "name": "教學原理 歷屆考古題與Google表單學習站",
+  "description": "根據靜宜大學教育學分班教學原理講義，依14個章節及歷代教育學者分類之教檢教甄選擇題庫，提供Google表單風格互動測驗、即時答案解析及一鍵生成Google Forms程式碼。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
