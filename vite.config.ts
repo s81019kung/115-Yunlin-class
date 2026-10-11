@@ -4,7 +4,7 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  return {
+  return {base: '/115-Yunlin-class/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
